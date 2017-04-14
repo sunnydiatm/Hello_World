@@ -1,0 +1,17 @@
+{
+  "name": "gcdservice",
+  "version": "1.0.0",
+  "description": "This is just a simple application to calculate GCD and store into MongoDB and fetch as well.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunny Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "node": "0.0.0"
+  }
+}
